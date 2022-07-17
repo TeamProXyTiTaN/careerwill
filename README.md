@@ -6,5 +6,5 @@ THIS SCRIPT IS MADE TO EXTRACT VIDEOS ONLY FROM THOSE USERS WHO PAID FOR THEIR B
 
 # USAGE
 ```sh
-careerwill.py [-h] -t <token> [-o <output>] -b <bcovtoken>
+careerwill.py -t <token> [-o <output> (optional) ] -b <bcovtoken>
 ```
